@@ -7,7 +7,7 @@ end
 def actor
  actor={name: "Dwayne The Rock Johnson"}
  actor[:name]
- binding.pry
+ #binding.pry
 end
 
 def monopoly
